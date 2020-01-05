@@ -1,0 +1,10 @@
+fr\ynov\daoexample\dao\DAOArticle.class
+fr\ynov\daoexample\dao\DAOFactory.class
+fr\ynov\daoexample\dao\DAOArticleImpl.class
+fr\ynov\servlets\Index.class
+fr\ynov\daoexample\model\Article.class
+fr\ynov\servlets\listArticles.class
+fr\ynov\servlets\addArticle.class
+fr\ynov\servlets\editArticle.class
+fr\ynov\daoexample\dao\MySQLManager.class
+fr\ynov\servlets\viewArticle.class
